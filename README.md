@@ -1,5 +1,5 @@
 # baby-steps-operations
-# Hello, human
+# Hello, human,
 
 # The C9 content refers to the subject: 
 # MATHEMATICAL SERIES
